@@ -1,7 +1,7 @@
 # Human-Computer-Interaction-Touchless-Payphone-Report
 Coursework Overview: CS-200 – Introduction to Human-Computer Interaction
 
-This report outlines the collaborative project undertaken by a group of students in the CS-200 module, focusing on the design and usability of a touchless payphone for public spaces. The project explored the intersection of interaction design, accessibility, and new technologies in response to the increasing demand for touchless solutions post-COVID.
+This report outlines a collaborative project that I contributed to as part of a group of students in the CS-200 module, focusing on the design and usability of a touchless payphone for public spaces. The project explored the intersection of interaction design, accessibility, and new technologies in response to the increasing demand for touchless solutions post-COVID.
 
 The design process was approached through two stages: an autoethnographic study and a prototyping phase. In the first stage, we identified the advantages and challenges of touchless payphones, specifically considering user inclusivity for individuals with disabilities. Key features of the proposed design included eye tracking, contactless payment, multi-language support, and wheelchair accessibility.
 
